@@ -15,7 +15,7 @@ conda activate wbm
 conda install anaconda
 conda install opencv -c conda-forge
 conda install pytorch=1.6.0 cudatoolkit=10.2 -c pytorch
-pip install pytorch_lightning
+pip install pytorch_lightning=0.8.5
 pip install albumentations
 ```
 
